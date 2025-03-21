@@ -1,0 +1,16 @@
+name: GitHub Repo Stats
+on:
+  push:
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Stats
+        uses: jgehrcke/github-repo-stats@v1
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
