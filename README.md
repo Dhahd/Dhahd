@@ -19,7 +19,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+![My GitHub Stats](https://github.com/your-username/github-stats/actions/workflows/github-stats.yml/badge.svg)
 <!-- Custom language distribution visualization -->
 <div align="center">
   <h3>My Language Distribution</h3>
