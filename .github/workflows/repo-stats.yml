@@ -12,7 +12,11 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Generate Stats
-        uses: jgehrcke/github-repo-stats@v1
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          repo_token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.TOKEN }}
+          user: Dhahd
+          template: classic
+          base: header, repositories
+          config_timezone: UTC
