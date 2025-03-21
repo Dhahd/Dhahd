@@ -1,0 +1,14 @@
+name: Repository Report
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs weekly
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Repository Report
+        uses: jgehrcke/github-repo-stats@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
