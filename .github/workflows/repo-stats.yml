@@ -1,7 +1,9 @@
 name: GitHub Repo Stats
 on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   push:
-  workflow_dispatch: # Allows manual runs
+  workflow_dispatch:
 
 jobs:
   stats:
