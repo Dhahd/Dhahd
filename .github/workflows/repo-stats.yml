@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
   push:
   workflow_dispatch:
-
+ 
 jobs:
   stats:
     runs-on: ubuntu-latest
