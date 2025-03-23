@@ -19,45 +19,52 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![My GitHub Stats](https://github.com/Dhahd/github-stats/actions/workflows/repo-stats.yml/badge.svg)
 <!-- Custom language distribution visualization -->
 <div align="center">
-  <h3>My Language Distribution</h3>
+  <!-- Custom language distribution visualization -->
+<div align="center">
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></td>
       <td>
-        <div style="background-color: #7F52FF; width: 220px; height: 10px; border-radius: 5px;"></div>
+        <div style="background-color: #7F52FF; width: 350px; height: 10px; border-radius: 5px;"></div>
       </td>
-      <td>30%</td>
+      <td>50.6%</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" /></td>
       <td>
         <div style="background-color: #FA7343; width: 180px; height: 10px; border-radius: 5px;"></div>
       </td>
-      <td>25%</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
-      <td>
-        <div style="background-color: #F7DF1E; width: 140px; height: 10px; border-radius: 5px;"></div>
-      </td>
-      <td>20%</td>
+      <td>26.2%</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" /></td>
       <td>
-        <div style="background-color: #ED8B00; width: 100px; height: 10px; border-radius: 5px;"></div>
+        <div style="background-color: #ED8B00; width: 70px; height: 10px; border-radius: 5px;"></div>
       </td>
-      <td>15%</td>
+      <td>10.1%</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
+      <td>
+        <div style="background-color: #02569B; width: 60px; height: 10px; border-radius: 5px;"></div>
+      </td>
+      <td>8.0%</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td>
+        <div style="background-color: #F7DF1E; width: 50px; height: 10px; border-radius: 5px;"></div>
+      </td>
+      <td>6.6%</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
       <td>
-        <div style="background-color: #3776AB; width: 70px; height: 10px; border-radius: 5px;"></div>
+        <div style="background-color: #3776AB; width: 10px; height: 10px; border-radius: 5px;"></div>
       </td>
-      <td>10%</td>
+      <td>0.1%</td>
     </tr>
   </table>
 </div>
