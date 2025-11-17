@@ -12,9 +12,6 @@
   <a href="mailto:shaneendhahd@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-shaneendhahd@gmail.com-1abc9c?style=for-the-badge" />
   </a>
-  <a href="https://github.com/dhahd">
-    <img src="https://img.shields.io/badge/GitHub-dhahd-181717?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
